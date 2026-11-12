@@ -11,3 +11,9 @@ The public repository is rebuilt with fresh Git history so historical source obj
 Keep the six student credits, supervision credit, project description, original figure and public project/report/poster/video links. Do not restore code, notebooks or code-availability badges without an explicit new instruction from Aaron. Do not infer a software license from this documentation.
 
 Read this file and SKILL.md before editing. Review both again before every commit and update them whenever status or workflow changes. The website’s project entry must reflect this documentation-only state, with no source, notebook or Colab link.
+
+## Documentation revision — 2026-11-12
+
+README prose now states the documentation-only scope directly and labels the figure as historical. The requested Status-through-before-Links removal remains intact. This edit changes no repository allowlist, code availability or Git history policy.
+
+Two actual Claude editorial reviews on 2026-11-12 covered the revised README and related documentation. They confirmed the documentation-only scope and requested section removal. No source or historical code objects were added.
