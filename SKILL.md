@@ -7,3 +7,7 @@ Retain project credits, the archived figure and Links. Do not restore source/, u
 Before every commit, review SUMMARY.md and this file and synchronize any changed status or workflow. Check the exact tracked-file allowlist and relative README image link. Keep source-availability statements and website links accurate. No runnable-code validation or dependency setup applies to this repository.
 
 Use factual maintainer prose and identify the figure as historical. Do not add setup, validation or software-availability sections before Links: the prior section removal remains part of the requested public presentation.
+
+## Concise prose review — 2026-11-17
+
+A real tools-disabled Claude editorial review informed the shorter historical-figure caption and attribution text, removal of the decorative archive badge, and tighter link formatting. The five-file documentation-only allowlist, original figure, source withdrawal and fresh-history policy remain intact. No runnable demo or source was added, and no student email is prepared.

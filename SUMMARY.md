@@ -17,3 +17,7 @@ Read this file and SKILL.md before editing. Review both again before every commi
 README prose now states the documentation-only scope directly and labels the figure as historical. The requested Status-through-before-Links removal remains intact. This edit changes no repository allowlist, code availability or Git history policy.
 
 Two actual Claude editorial reviews on 2026-11-12 covered the revised README and related documentation. They confirmed the documentation-only scope and requested section removal. No source or historical code objects were added.
+
+## Concise prose review — 2026-11-17
+
+A real tools-disabled Claude editorial review informed the shorter historical-figure caption and attribution text, removal of the decorative archive badge, and tighter link formatting. The five-file documentation-only allowlist, original figure, source withdrawal and fresh-history policy remain intact. No runnable demo or source was added, and no student email is prepared.
